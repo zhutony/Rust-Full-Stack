@@ -145,7 +145,7 @@ These are lists of what I should prototype. I also write production projects in 
 Golang
 
 * Make concurrent requests with go channels for targets. 
-* Make a web project with Golang and bbolt.
+* Make a web project with bbolt.
 
 Rust 
 
